@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: vm-epam
+  name: vm-epam
   #vmImage: 'windows-2019'
 
 variables:
